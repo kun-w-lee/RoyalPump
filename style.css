@@ -691,7 +691,7 @@ h4 {
 .profile__photo {
   position: relative;
   width: 398px;
-  height: 330px;
+  height: 390px;
   background-image: url(imgs/pump.png);
   background-repeat: no-repeat;
   background-position: 20% 50%;
@@ -1433,7 +1433,7 @@ h4 {
   }
   .profile__photo {
     width: 360px;
-    height: 298px;
+    height: 350px;
   }
 }
 
@@ -1805,6 +1805,10 @@ h4 {
   }
 
   .hide-mobile {
+    display: none;
+  }
+
+  .profile__name {
     display: none;
   }
 
